@@ -18,7 +18,7 @@
 
 ## Architecture Overview
 
-![Architecture Diagram](assets/architecture_full.png)
+![Architecture Diagram](assets/architecture_pipeline.png)
 
 _This architecture illustrates the end-to-end analytics flow for a global e-commerce brand.  
 Raw sales, marketing, and traffic data are ingested into Snowflake, transformed through dbt staging and core models,  
