@@ -1,0 +1,1 @@
+# EDA notebook skeleton\n\nSteps: load data, GMV, AOV, cohorts, retention, LTV\n

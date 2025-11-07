@@ -1,0 +1,1 @@
+# Fashion E-commerce Analytics - Portfolio Project (Global, Multi-currency)\n\nProject goal: Build end-to-end analytics for a global fashion e-commerce DTC brand.\n

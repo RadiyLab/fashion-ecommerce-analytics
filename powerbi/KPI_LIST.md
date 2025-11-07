@@ -1,0 +1,1 @@
+KPI list: GMV (USD), AOV, Conversion Rate, Retention, LTV, CAC by channel\n
