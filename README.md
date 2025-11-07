@@ -26,6 +26,51 @@ and visualized in Power BI dashboards to support product, merchandising, and gro
 
 ---
 
+## 📊 Exploratory Data Analysis (EDA)
+
+**Interactive analysis of customer, product, and marketing data**  
+This EDA explores key business metrics such as GMV, product performance, and marketing ROI.
+
+| Resource                | Link                                                                                                                  |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Live HTML Report** | [View in Browser](https://radiylab.github.io/fashion-ecommerce-analytics/01_EDA.html)                                 |
+| 📓 **Jupyter Notebook** | [Open on nbviewer](https://nbviewer.org/github/RadiyLab/fashion-ecommerce-analytics/blob/main/notebooks/01_EDA.ipynb) |
+| 💾 **Source Code**      | [GitHub Repository](https://github.com/RadiyLab/fashion-ecommerce-analytics)                                          |
+
+---
+
+## 📈 Power BI Dashboard
+
+**Global Multi-Currency Analytics Dashboard**  
+Visualizes KPIs such as sales, customer segmentation, and conversion trends.
+
+| Resource                    | Link                                       |
+| --------------------------- | ------------------------------------------ |
+| 📊 **Live Power BI Report** | (link coming soon)                         |
+| 📁 **PBIX File**            | [Download](powerbi/Fashion_Analytics.pbix) |
+
+---
+
+## 🧠 SQL Models
+
+Structured transformations for the analytics pipeline using dbt / SQL logic.
+
+| Resource              | Link                               |
+| --------------------- | ---------------------------------- |
+| 🧩 **Staging Models** | [View SQL Queries](sql/queries.md) |
+
+---
+
+## 🏗️ Tech Stack
+
+`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `SQL` · `dbt` · `Snowflake` · `Power BI`
+
+---
+
+✨ _This project demonstrates end-to-end analytics for a global fashion e-commerce brand — from raw data to storytelling dashboards._
+
+---
+
 ## Data Model & Sources
 
 The dataset simulates a global multi-currency fashion e-commerce brand with the following tables:
